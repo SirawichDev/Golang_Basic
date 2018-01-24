@@ -18,4 +18,5 @@ func main() {
 	fmt.Println("input number to b")
 	fmt.Scan(&b)
 	fmt.Println("a+b is :", a+b)
+	fmt.Println("a/b is :", a/b)
 }
